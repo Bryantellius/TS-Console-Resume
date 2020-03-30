@@ -1,0 +1,28 @@
+{
+  "name": "ts-console-resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "resume.ts",
+  "scripts": {
+    "dev": "webpack -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bryantellius/TS-Console-Resume.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bryantellius/TS-Console-Resume/issues"
+  },
+  "homepage": "https://github.com/Bryantellius/TS-Console-Resume#readme",
+  "dependencies": {
+    "@types/jquery": "^3.3.34",
+    "jquery": "^3.4.1",
+    "ts-loader": "^6.2.2",
+    "typescript": "^3.8.3",
+    "webpack": "^4.42.1",
+    "webpack-cli": "^3.3.11"
+  }
+}
